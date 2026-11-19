@@ -6,4 +6,4 @@ workers_dev = true
 [[d1_databases]]
 binding = "DB"
 database_name = "stargg-license"
-database_id = "PASTE-YOUR-DATABASE-ID-HERE"
+database_id = "eb228b60-dbe7-4084-9f7e-2332af5d3b2f"
